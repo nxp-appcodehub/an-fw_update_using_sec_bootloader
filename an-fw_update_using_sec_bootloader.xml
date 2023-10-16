@@ -1,0 +1,22 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="an-fw_update_using_sec_bootloader" type="app_note" format="projectfile" name="fw_update_using_sec_bootloader">
+    <overview>
+        <![CDATA[AN13497: Firmware Update Using Secondary Bootloader]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mdk"></toolchain>
+    </toolchains>
+    <families>
+        <family name="lpc"></family>
+    </families>
+    <nxp_compatible_hw>
+        <hw id="LPCXpresso55S69"></hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="uart"></peripheral>
+        <peripheral name="gpio"></peripheral>
+        <peripheral name="flash"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="industrial"></category>
+    </categories>
+</data:item>

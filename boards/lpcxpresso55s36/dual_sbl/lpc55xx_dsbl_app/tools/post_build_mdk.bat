@@ -1,0 +1,1 @@
+ .\image_generator.exe -s -l 0x10000 ..\mdk\debug\dsbl_app.bin dsbl_app_crc.bin

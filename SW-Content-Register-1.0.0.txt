@@ -1,0 +1,25 @@
+NXP Software Content Register
+
+Package:                   an-fw_update_using_sec_bootloader
+
+Version:                   1.0
+Outgoing License:          LA_OPT_NXP_Software_License v48 July 2023- Additional Distribution License granted, license in Section 2.3 applies
+License File:              LICENSE.txt
+Description and comments:  This demo code implements a simple dual image update example on LPC55xx.
+Release Location:          https://github.com/nxp-appcodehub/an-fw_update_using_sec_bootloader
+Origin:                    NXP (proprietary)
+                           NXP (BSD-3-Clause)
+                           CMSIS - ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/
+						               
+
+CMSIS                      Name: CMSIS                                       
+                           Version: 5.8.0                                    
+                           Outgoing License: Apache License 2.0              
+                           License File: CMSIS/LICENSE.txt                   
+                           Format: source code                               
+                           Description: Vendor-independent hardware          
+                           abstraction layer for microcontrollers that are   
+                           based on Arm Cortex processors, distributed by    
+                           ARM. cores                                        
+                           Release location: https://github.com/nxp-appcodehub/an-fw_update_using_sec_bootloader/tree/main/CMSIS/                     
+                           Origin: ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/           
